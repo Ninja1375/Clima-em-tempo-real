@@ -96,3 +96,11 @@ Incluir animações suaves ao exibir os dados ou alterar os ícones climáticos,
 
 Oferecer um modo claro e escuro, ajustando o design de acordo com a preferência do usuário.
 Este projeto é um ótimo exemplo de como integrar APIs e construir interfaces amigáveis com HTML, CSS e JavaScript, além de fornecer uma aplicação prática para quem deseja aprender a consumir APIs e manipular dados em tempo real.
+
+## Apoie-me:
+
+<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="130" height="30"></a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="130" height="30"></a>
+
+<a href="https://github.com/sponsors/Ninja1375" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white" width="130" height="30"></a>
