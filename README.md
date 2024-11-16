@@ -1,19 +1,27 @@
+## Introdução ##
+
 Este projeto é um site de clima em tempo real, desenvolvido com HTML, CSS e JavaScript para fornecer informações meteorológicas atualizadas de qualquer cidade do mundo. Utilizando a API OpenWeatherMap, o sistema permite que os usuários insiram o nome de uma cidade e recebam dados climáticos como temperatura atual, condições climáticas, temperatura máxima e mínima, umidade e velocidade do vento. O design é responsivo e intuitivo, projetado para funcionar em dispositivos móveis e desktops.
 
-Descrição Completa do Projeto
+## Descrição Completa do Projeto ##
 O site possui uma interface simples e elegante, projetada para oferecer uma experiência de usuário amigável e informativa. A estrutura do site é organizada com uma barra de busca para a entrada da cidade, seguida de um painel que exibe os dados climáticos. O design inclui cores suaves e uma tipografia moderna, além de ícones que representam as condições climáticas e outras informações relevantes.
 
-Componentes do Projeto
-Barra de Pesquisa:
+**Componentes do Projeto**
+
+***Barra de Pesquisa:***
 
 Uma barra de pesquisa localizada na parte superior do site permite que o usuário insira o nome da cidade para a qual deseja ver as informações meteorológicas.
 Ao clicar no botão de pesquisa, o sistema realiza uma consulta à API e exibe os dados atualizados.
-Painel de Clima:
 
-Nome da Cidade e País: Exibe o nome da cidade e o código do país.
-Temperatura Atual: Mostra a temperatura atual na cidade pesquisada, com uma unidade em graus Celsius.
-Descrição do Clima: Uma breve descrição das condições climáticas (por exemplo, "nublado" ou "ensolarado").
-Ícone do Clima: Um ícone que representa as condições climáticas atuais (nuvem, sol, chuva, etc.), que muda dinamicamente de acordo com os dados recebidos da API.
+**Painel de Clima:**
+
+***Nome da Cidade e País:*** Exibe o nome da cidade e o código do país.
+
+***Temperatura Atual:*** Mostra a temperatura atual na cidade pesquisada, com uma unidade em graus Celsius.
+
+***Descrição do Clima:*** Uma breve descrição das condições climáticas (por exemplo, "nublado" ou "ensolarado").
+
+***Ícone do Clima:*** Um ícone que representa as condições climáticas atuais (nuvem, sol, chuva, etc.), que muda dinamicamente de acordo com os dados recebidos da API.
+
 Detalhes Adicionais:
 
 Temperatura Máxima e Mínima: Exibe a temperatura máxima e mínima do dia.
