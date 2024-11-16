@@ -1,3 +1,5 @@
+**[Clima em Tempo Real](hhhhh)**
+
 ## Introdução ##
 
 Este projeto é um site de clima em tempo real, desenvolvido com HTML, CSS e JavaScript para fornecer informações meteorológicas atualizadas de qualquer cidade do mundo. Utilizando a API OpenWeatherMap, o sistema permite que os usuários insiram o nome de uma cidade e recebam dados climáticos como temperatura atual, condições climáticas, temperatura máxima e mínima, umidade e velocidade do vento. O design é responsivo e intuitivo, projetado para funcionar em dispositivos móveis e desktops.
@@ -64,33 +66,31 @@ Caso a cidade não seja encontrada ou ocorra algum problema na consulta, o site 
 O layout responsivo e o design intuitivo facilitam a navegação e melhoram a experiência do usuário.
 Os elementos visuais, como os ícones e cartões de dados, ajudam o usuário a entender rapidamente as informações climáticas.
 
-Tecnologias Utilizadas
-HTML: Estrutura básica da página e dos elementos.
-CSS: Estilos para layout, cores, fontes e responsividade.
-JavaScript: Lógica para buscar e processar os dados da API OpenWeatherMap e atualizar o conteúdo do site em tempo real.
-API OpenWeatherMap: Fornece os dados meteorológicos em tempo real, permitindo a exibição de informações precisas de clima para qualquer cidade.
-Possíveis Melhorias Futuras
-Detecção de Localização Automática:
+## Tecnologias Utilizadas ##
+
+**HTML:** Estrutura básica da página e dos elementos.
+
+**CSS:** Estilos para layout, cores, fontes e responsividade.
+
+**JavaScript:** Lógica para buscar e processar os dados da API OpenWeatherMap e atualizar o conteúdo do site em tempo real.
+
+**API OpenWeatherMap:** Fornece os dados meteorológicos em tempo real, permitindo a exibição de informações precisas de clima para qualquer cidade.
+
+## Possíveis Melhorias Futuras ##
+
+**Detecção de Localização Automática:**
 
 Adicionar uma funcionalidade para detectar automaticamente a localização do usuário e exibir o clima atual sem a necessidade de inserir uma cidade.
-Previsão do Tempo para Dias Futuros:
+
+**Previsão do Tempo para Dias Futuros:**
 
 Exibir a previsão do tempo para os próximos dias, permitindo que o usuário veja as tendências climáticas.
-Animações e Transições:
+
+**Animações e Transições:**
 
 Incluir animações suaves ao exibir os dados ou alterar os ícones climáticos, aumentando a interatividade.
-Modo Claro/Escuro:
+
+**Modo Claro/Escuro:**
 
 Oferecer um modo claro e escuro, ajustando o design de acordo com a preferência do usuário.
 Este projeto é um ótimo exemplo de como integrar APIs e construir interfaces amigáveis com HTML, CSS e JavaScript, além de fornecer uma aplicação prática para quem deseja aprender a consumir APIs e manipular dados em tempo real.
-
-
-
-
-
-
-
-
-
-
-
