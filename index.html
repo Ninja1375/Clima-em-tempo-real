@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clima em Tempo Real</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <div class="search">
+      <input type="text" id="city" placeholder="Digite o nome da cidade">
+      <button onclick="getWeather()"><i class="fas fa-search-location"></i></button>
+    </div>
+    <div id="weather-result" class="weather-card">
+      <h2 id="location"></h2>
+      <div class="temperature">
+        <i id="weather-icon" class="fas fa-cloud"></i>
+        <p id="temp"></p>
+      </div>
+      <p id="description"></p>
+      <div class="details">
+        <div class="detail">
+          <i class="fas fa-temperature-high"></i>
+          <p>Temp. máx</p>
+          <span id="temp-max"></span>
+        </div>
+        <div class="detail">
+          <i class="fas fa-temperature-low"></i>
+          <p>Temp. min</p>
+          <span id="temp-min"></span>
+        </div>
+        <div class="detail">
+          <i class="fas fa-tint"></i>
+          <p>Humidade</p>
+          <span id="humidity"></span>
+        </div>
+        <div class="detail">
+          <i class="fas fa-wind"></i>
+          <p>Vento</p>
+          <span id="wind"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
