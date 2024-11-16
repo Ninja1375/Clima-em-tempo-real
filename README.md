@@ -22,38 +22,48 @@ Ao clicar no botão de pesquisa, o sistema realiza uma consulta à API e exibe o
 
 ***Ícone do Clima:*** Um ícone que representa as condições climáticas atuais (nuvem, sol, chuva, etc.), que muda dinamicamente de acordo com os dados recebidos da API.
 
-Detalhes Adicionais:
+## Detalhes Adicionais: ##
 
-Temperatura Máxima e Mínima: Exibe a temperatura máxima e mínima do dia.
+**Temperatura Máxima e Mínima:** Exibe a temperatura máxima e mínima do dia.
 Umidade: Mostra o nível de umidade atual em porcentagem.
-Velocidade do Vento: Informa a velocidade do vento em quilômetros por hora.
-Design Responsivo:
+
+**Velocidade do Vento:** Informa a velocidade do vento em quilômetros por hora.
+
+## Design Responsivo: ##
 
 O layout é adaptável a diferentes tamanhos de tela, tornando o site acessível e fácil de usar tanto em dispositivos móveis quanto em computadores.
-Estilo Visual:
+
+**Estilo Visual:**
 
 O design do site segue um estilo moderno, com uma paleta de cores em tons suaves e neutros, proporcionando uma experiência visual agradável.
 Cada informação adicional de clima é organizada em pequenos cartões com ícones correspondentes, tornando a visualização clara e intuitiva.
-Funcionalidades do Projeto
-Consulta de Clima em Tempo Real:
+
+## Funcionalidades do Projeto ##
+
+**Consulta de Clima em Tempo Real:**
 
 O usuário pode pesquisar o clima de qualquer cidade no mundo em tempo real.
 A API OpenWeatherMap é utilizada para obter dados precisos e atualizados.
-Exibição de Dados Climatológicos Detalhados:
+
+**Exibição de Dados Climatológicos Detalhados:**
 
 Exibe a temperatura atual da cidade, junto com a temperatura máxima e mínima.
 Mostra uma descrição das condições climáticas atuais, como "ensolarado", "nublado" ou "chuvoso".
 Informa a umidade e a velocidade do vento, ajudando o usuário a ter uma visão completa das condições climáticas.
-Ícones Dinâmicos de Condições Climáticas:
+
+**Ícones Dinâmicos de Condições Climáticas:**
 
 Ícones diferentes são exibidos com base nas condições climáticas recebidas da API, tornando o site mais interativo e visualmente atraente.
-Mensagens de Erro:
+
+**Mensagens de Erro:**
 
 Caso a cidade não seja encontrada ou ocorra algum problema na consulta, o site exibe uma mensagem de erro amigável, solicitando que o usuário tente novamente.
-Experiência de Usuário Melhorada:
+
+**Experiência de Usuário Melhorada:**
 
 O layout responsivo e o design intuitivo facilitam a navegação e melhoram a experiência do usuário.
 Os elementos visuais, como os ícones e cartões de dados, ajudam o usuário a entender rapidamente as informações climáticas.
+
 Tecnologias Utilizadas
 HTML: Estrutura básica da página e dos elementos.
 CSS: Estilos para layout, cores, fontes e responsividade.
